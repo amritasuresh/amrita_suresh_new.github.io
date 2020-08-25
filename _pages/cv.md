@@ -14,7 +14,7 @@ redirect_from:
 Formal methods PhD student
 
 <div id="webaddress">
-<a href="mailto:asuresh@lsv.fr">ben@blm.io</a>
+<a href="mailto:asuresh@lsv.fr">asuresh@lsv.fr</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/amritasuresh">amritasuresh</a>
 |
