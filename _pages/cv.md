@@ -10,9 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-# Amrita Suresh
-Formal methods PhD student
-
 <div id="webaddress">
 <a href="mailto:asuresh@lsv.fr">asuresh@lsv.fr</a>
 |
