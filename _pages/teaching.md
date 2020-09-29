@@ -12,5 +12,8 @@ author_profile: true
 This TD covers the basics of different programming paradigms, some introduction to common character encodings, and some information on representation of numbers in the system.
 
 2. [TD2](TD2/TD2.pdf)
-This TD focuses primarily on assembler code (x86) and understanding the conversion between C and assembly languages. There will be a bonus TD sheet that covers some missed topics (MIPS code and additional examples). 
+This TD focuses primarily on assembler code (x86) and understanding the conversion between C and assembly languages.
+
+3. [TD3](TD3/TD3.pdf)
+This TD focuses on MIPS assembly language, some compiler optimizations, and we also begin the study of pointers.
 
