@@ -17,3 +17,6 @@ This TD focuses primarily on assembler code (x86) and understanding the conversi
 3. [TD3](TD3/TD3.pdf)
 This TD focuses on MIPS assembly language, some compiler optimizations, and we also begin the study of pointers.
 
+4. [TD4](TD4/TD4.pdf) 
+This TD starts with understanding how pointers behave in different languages, then we look at structures and how they are stored in the memory, and finally, we look at string manipulation in C.
+
