@@ -20,3 +20,5 @@ This TD focuses on MIPS assembly language, some compiler optimizations, and we a
 4. [TD4](TD4/TD4.pdf) 
 This TD starts with understanding how pointers behave in different languages, then we look at structures and how they are stored in the memory, and finally, we look at string manipulation in C.
 
+5. [TD5](TD5/TD5.pdf) 
+This TD deals with static and dynamic binding, along with some examples on call by value, reference, name and need.
