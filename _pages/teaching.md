@@ -8,6 +8,9 @@ author_profile: true
 # Programmation 1, L3, ENS-Paris-Saclay (2020-2021)
 
 ## Exercise sessions
+
+PROGRAMMING LANGUAGES
+
 1. [TD1](TD1/TD1.pdf)
 This TD covers the basics of different programming paradigms, some introduction to common character encodings, and some information on representation of numbers in the system.
 
@@ -22,3 +25,8 @@ This TD starts with understanding how pointers behave in different languages, th
 
 5. [TD5](TD5/TD5.pdf) 
 This TD deals with static and dynamic binding, along with some examples on call by value, reference, name and need.
+
+SEMANTICS
+
+1. [TD6](TD6/TD6.pdf)
+This TD deals with an Introduction to Operational Semantics.
