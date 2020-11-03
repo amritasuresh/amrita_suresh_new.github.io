@@ -30,3 +30,6 @@ SEMANTICS
 
 1. [TD6](TD6/TD6.pdf)
 This TD deals with an Introduction to Operational Semantics.
+
+2. [TD7](TD7/TD7.pdf)
+This TD deals with Lattices, Knaster-Tarski, and DCPOs.
