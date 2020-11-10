@@ -33,3 +33,6 @@ This TD deals with an Introduction to Operational Semantics.
 
 2. [TD7](TD7/TD7.pdf)
 This TD deals with Lattices, Knaster-Tarski, and DCPOs. Solutions available here: [All solutions](TD7/TD7-solutions.pdf) [Exercise 1.2](TD7/TD7_ex1_solution.pdf) 
+
+3. [TD8](TD8/TD8.pdf)
+This TD deals with semantics for graphs, DCPOs and some topology.
