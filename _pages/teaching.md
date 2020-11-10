@@ -32,4 +32,4 @@ SEMANTICS
 This TD deals with an Introduction to Operational Semantics.
 
 2. [TD7](TD7/TD7.pdf)
-This TD deals with Lattices, Knaster-Tarski, and DCPOs.
+This TD deals with Lattices, Knaster-Tarski, and DCPOs. Solutions available here: [All solutions](TD7/TD7-solutions.pdf) [Exercise 1.2](TD7/TD7_ex1_solution.pdf) 
