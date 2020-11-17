@@ -36,3 +36,6 @@ This TD deals with Lattices, Knaster-Tarski, and DCPOs. Solutions available here
 
 3. [TD8](TD8/TD8.pdf)
 This TD deals with semantics for graphs, DCPOs and some topology. [Solution key](TD8/TD8-solutions.pdf)
+
+4. [TD9](TD9/TD9.pdf)
+This TD explores further on the topics of Scott-topology, separation and semantics.
