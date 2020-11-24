@@ -38,4 +38,8 @@ This TD deals with Lattices, Knaster-Tarski, and DCPOs. Solutions available here
 This TD deals with semantics for graphs, DCPOs and some topology. [Solution key](TD8/TD8-solutions.pdf)
 
 4. [TD9](TD9/TD9.pdf)
-This TD explores further on the topics of Scott-topology, separation and semantics.
+This TD explores further on the topics of Scott-topology, separation and semantics. [Solution key](TD9/TD9-key.pdf)
+
+5. [TD10](TD10/TD10-questions.pdf)
+This TD deals with axiomatic semantics, Hoare logic and notions of Weakest liberal preconditions.
+
