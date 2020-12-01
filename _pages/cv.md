@@ -85,6 +85,8 @@ My [personal github account](https://github.com/amritasuresh) hosts my hobby dev
 
 ## Awards
 
+Co-author of the Best Paper Award winning submission at CONCUR '20.
+
 One in 22 worldwide to be awarded the Digicosme scholarship for Master’s students in Computer Science in 2018.
 
 One in 4 to receive the INRIA - ENS Paris Saclay scholarship in 2017.
