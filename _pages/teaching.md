@@ -44,5 +44,5 @@ This TD explores further on the topics of Scott-topology, separation and semanti
 This TD deals with axiomatic semantics, Hoare logic and notions of Weakest liberal preconditions. [Solution](TD10/TD10-solution.pdf)
 
 6. [TD11](TD11/TD11-questions.pdf)
-This TD deals with notions of PCF, type systems, etc.
+This TD deals with notions of PCF, type systems, etc. [Solution](TD11/TD11.pdf)
 
