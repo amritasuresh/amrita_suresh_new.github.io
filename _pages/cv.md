@@ -21,12 +21,7 @@ redirect_from:
 
 ## Currently
 
-I'm a first year PhD student at the LSV, ENS Paris Saclay. I am working on analysing underapproximations for the verification of distributed systems which communicate asynchronously via buffers of unbounded size. 
-
-## Employment
-
-`2016-2017` 
-__Intuit, Inc.__ Software Engineer (QuickBooks Online and Intuit Online Payroll)
+I'm a second year PhD student at the LSV, ENS Paris Saclay. I am working on analysing underapproximations for the verification of distributed systems which communicate asynchronously via buffers of unbounded size. 
 
 ## Education
 
@@ -109,6 +104,11 @@ Helped the migration of QuickBooks accounts to Amazon Web Services, and the inte
 `2014`
 __Indian Space Research Organization (Satellite Centre)__ (_Bangalore, India_)
 Worked for the summer on the estimation of the parameters of solar cells from current-voltage characteristics using genetic algorithm. Also set up an online tool for the analysis of solar cell performance for the Power Systems Group.
+
+## Employment
+
+`2016-2017` 
+__Intuit, Inc.__ Software Engineer (QuickBooks Online and Intuit Online Payroll)
 
 
 ## References
