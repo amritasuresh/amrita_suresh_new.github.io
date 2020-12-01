@@ -25,12 +25,11 @@ I'm a second year PhD student at the LSV, ENS Paris Saclay. I am working on anal
 
 ## Education
 
-`2012-16`
-__Birla Institute of Technology and Science__ B.E (Hons.) Computer Science (undergraduate thesis advisor: Nutan Limaye, IIT Bombay). My undergraduate thesis was titled _Circuit Complexity and Parallel Algorithms_ and is available on [this link](https://www.dropbox.com/s/gygo399vhu8agtm/Amrita_Bachelor_report.pdf?dl=0).
-
 `2017-19`
 __Ecole Normale Superieure Paris Saclay__ MPRI (Master Parisien de Recherche en Informatique)  (_magna cum laude_)
 
+`2012-16`
+__Birla Institute of Technology and Science__ B.E (Hons.) Computer Science (undergraduate thesis advisor: Nutan Limaye, IIT Bombay). My undergraduate thesis was titled _Circuit Complexity and Parallel Algorithms_ and is available on [this link](https://www.dropbox.com/s/gygo399vhu8agtm/Amrita_Bachelor_report.pdf?dl=0).
 
 ### Talks
 
