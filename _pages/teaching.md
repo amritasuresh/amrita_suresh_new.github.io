@@ -49,3 +49,6 @@ This TD deals with notions of PCF, type systems, etc. [Solution](TD11/TD11.pdf)
 7. [TD12](TD12/TD12-questions.pdf)
 This TD looks at a variant of PCF with reals. [Solution](TD12/TD12.pdf)
 
+8. [TD13](TD13/TD13-questions.pdf)
+This last TD looks at typing. 
+
