@@ -47,8 +47,13 @@ This TD deals with axiomatic semantics, Hoare logic and notions of Weakest liber
 This TD deals with notions of PCF, type systems, etc. [Solution](TD11/TD11.pdf)
 
 7. [TD12](TD12/TD12-questions.pdf)
-This TD looks at a variant of PCF with reals. [Solution](TD12/TD12.pdf) [Short note](TD12/PCF_v.pdf) on PCF call-by-need vs call-by-value (response to question) 
+This TD looks at a variant of PCF with reals. [Solution](TD12/TD12.pdf) ([Short note](TD12/PCF_v.pdf) on PCF call-by-need vs call-by-value (response to question)). 
 
 8. [TD13](TD13/TD13-questions.pdf)
 This last TD on semantics looks at typing. [Solution key](TD13/TD13.pdf)
+
+ABSTRACT INTERPRETATION
+
+1. [TD14](TD14/TD14-question.pdf)
+Introduction to abstract interpretation. 
 
