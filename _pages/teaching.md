@@ -55,5 +55,5 @@ This last TD on semantics looks at typing. [Solution key](TD13/TD13.pdf)
 ABSTRACT INTERPRETATION
 
 1. [TD14](TD14/TD14-question.pdf)
-Introduction to abstract interpretation. 
+Introduction to abstract interpretation. [Solution](TD14/TD14.pdf)
 
