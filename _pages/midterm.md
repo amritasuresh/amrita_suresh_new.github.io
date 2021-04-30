@@ -9,7 +9,7 @@ redirect_from:
 
 My midterm defense will be on *Wednesday, 12 May 2021, 10am*. It will be online, and the link will be shared here shortly.
 
-The report for the defense can be found [here](midterm/Amrita_report.pdf)
+The report for the defense can be found [here](midterm/Amrita_report.pdf).
 
 Furthermore, preprints for all the submissions, and full versions of the accepted works will be found here.
 
