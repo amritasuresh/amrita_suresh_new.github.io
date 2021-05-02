@@ -10,3 +10,5 @@ redirect_from:
 This page is dedicated to my project on Population Protocols.
 
 The tool Peregrine can be found here: [Peregrine](https://peregrine.model.in.tum.de/)
+
+The report of the work can be found here: [Report](population/Amrita_report_M1.pdf)
