@@ -8,12 +8,14 @@ redirect_from:
 ---
 
 My midterm defense will be on **Wednesday, 12 May 2021, 10h CET**. It will be online, and the details can be found below.
-
+<paragraph>
 Participate via Zoom
 [https://us02web.zoom.us/j/2391972631?pwd=UWZ5dzJycWt3aXBVa3JneVJua0NTZz09](https://us02web.zoom.us/j/2391972631?pwd=UWZ5dzJycWt3aXBVa3JneVJua0NTZz09)
 
 Meeting ID : 239 197 2631
+
 Code : 03EY2f
+<\paragraph>
 
 The report for the defense can be found [here](midterm/Amrita_report.pdf).
 
