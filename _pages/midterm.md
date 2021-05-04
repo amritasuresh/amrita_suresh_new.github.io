@@ -15,7 +15,7 @@ Participate via Zoom
 Meeting ID : 239 197 2631
 
 Code : 03EY2f
-<\paragraph>
+</paragraph>
 
 The report for the defense can be found [here](midterm/Amrita_report.pdf).
 
