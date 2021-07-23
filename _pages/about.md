@@ -14,7 +14,7 @@ My office is at **2S63**. You can contact me at (+33) 01 81 87 54 66 or via [ema
 
 *Postal address*:  
 Amrita Suresh  
-Office 2S63
+Office 2S63  
 LSV, ENS Paris-Saclay,  
 CS 30008  
 4 avenue des Sciences,  
