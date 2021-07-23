@@ -49,6 +49,9 @@ _Timelapse of AS-level topology graphs using BGP advertisements._ (COMSNETS 2015
 
 ## Publications
 
+`2021`
+B. Bollig, C. Di Guisto, A. Finkel, L. Laversa, E. Lozes and _A. Suresh_. __A Universal Framework for Deciding Synchronizability__. In Proceedings of the 32nd International Conference on Concurrency Theory (CONCUR'21),Paris, France, August 2021.
+
 `2020`
 B. Bollig, A. Finkel, and __A. Suresh__. Bounded Reachability Problems are Decidable in FIFO Machines. In Proceedings of the 31st International Conference on Concurrency Theory (CONCUR'20), volume 171 of Leibniz International Proceedings in Informatics, Vienna, Austria, September 2020. Leibniz-Zentrum für Informatik.
 
