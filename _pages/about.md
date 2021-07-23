@@ -13,8 +13,11 @@ Hello! I am Amrita, a second year doctoral student at the [LMF](https://lmf.cnrs
 My office is at **2S63**. You can contact me at (+33) 01 81 87 54 66 or via [email](mailto:asuresh@lsv.fr).
 
 *Postal address*:  
->LSV, ENS Paris-Saclay,  
->4 avenue des Sciences,  
->91190 Gif-sur-Yvette, France. 
+Amrita Suresh  
+Office 2S63
+LSV, ENS Paris-Saclay,  
+CS 30008  
+4 avenue des Sciences,  
+91190 Gif-sur-Yvette, France. 
 
 
