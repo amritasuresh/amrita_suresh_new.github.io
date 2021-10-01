@@ -1,4 +1,4 @@
-// This program accompanies Question 1.4.
+// This program accompanies Question 1.5.
 
 #include <stdio.h>
 
