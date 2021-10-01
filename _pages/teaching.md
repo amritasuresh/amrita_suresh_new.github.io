@@ -9,7 +9,7 @@ author_profile: true
 
 ## Exercise sessions
 
-PROGRAMMING LANGUAGES
+Architecture
 
 1. [TP1](TP01/tp01_eng.pdf)
 This TP covers some topics on bit manipulation and logic gates.
