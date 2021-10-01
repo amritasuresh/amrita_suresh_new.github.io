@@ -25,7 +25,6 @@ int main ()
 	print_binary("n=",n,8);
 
 	m = ((n * 0x0202020202) & 0x010884422010) % 1023;
-	p = (n * 0x0202020202);
 	
 	print_binary("m=",m,8);
 }
