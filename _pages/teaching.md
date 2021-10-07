@@ -15,3 +15,5 @@ Architecture
 This TP covers some topics on bit manipulation and logic gates.
 
 C program accompanying Question 1.5 -> [bits.c](TP01/bits.c)
+
+2. Archive folder containing files for TP2 [here](../teaching/bootstrap.tar.gz)
