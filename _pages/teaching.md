@@ -16,6 +16,6 @@ This TP covers some topics on bit manipulation and logic gates.
 
 C programs accomapanying questions -> [bits.c](TP01/bits.c)  [debruijn.c](TP01/debruijn.c)
 
-[Solutions](TP01/tp01_solutions.pdf)
+[Solutions for TP 1](TP01/tp01_solutions.pdf)
 
 2. Archive folder containing files for TP2 [here](../teaching/bootstrap.tar.gz)
