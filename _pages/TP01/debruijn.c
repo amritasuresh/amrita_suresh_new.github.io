@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-#define BITS 8	// or 16
+#define BITS 8
 
 typedef unsigned long long ulong;
 typedef signed char schar;
@@ -33,16 +33,9 @@ ulong bin_to_int (char *s)
 
 int find_bit8 (schar x)
 {
-	int tab[8] = {0,1,2,4,7,3,6,5};
-	ulong s = bin_to_int("0001011100");
-	return tab[((s * (x & -x)) >> 7) & 7];
-}
-
-int find_bit16 (sshort x)
-{
-	int tab[16] = {0,1,2,5,3,9,6,11,15,4,8,10,14,7,13,12};
-	ulong s = bin_to_int("0000100110101111000");
-	return tab[((s * (x & -x)) >> 15) & 15];
+	int tab[8] = {0,1,2,4,7,3,6,5}; //Hashtable with indices for 8 bits
+	ulong s = bin_to_int("0001011100"); //De Bruijn sequence for 8 bits
+	return tab[((s * (x & -x)) >> 5) & 7]; //Finds the corresponding index for LSB
 }
 
 #define GLUE(x,y) find_bit ## y (x)
