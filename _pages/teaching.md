@@ -19,4 +19,6 @@ C programs accomapanying questions -> [bits.c](TP01/bits.c)  [debruijn.c](TP01/d
 [Solutions for TP 1](TP01/tp01_solutions.pdf)
 
 2. [TP2](TP02/TP02.pdf)
-Archive folder containing files for TP2 [here](../teaching/bootstrap.tar.gz)
+
+3. [TP3](TP02/TP02.pdf)
+Archive folder containing files for TP3 [here](../teaching/bootstrap.tar.gz)
