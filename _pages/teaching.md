@@ -21,4 +21,5 @@ C programs accomapanying questions -> [bits.c](TP01/bits.c)  [debruijn.c](TP01/d
 2. [TP2](TP02/TP02.pdf)
 
 3. [TP3](TP03/TP3.pdf)
-Archive folder containing files for TP3 [here](../teaching/bootstrap.tar.gz)
+
+Solutions to the Base, ALU, Memory components to the exercises can be found [here](../teaching/bootstrap.tar.gz)
