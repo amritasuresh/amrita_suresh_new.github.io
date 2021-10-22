@@ -23,3 +23,6 @@ C programs accomapanying questions -> [bits.c](TP01/bits.c)  [debruijn.c](TP01/d
 3. [TP3](TP03/TP3.pdf)
 
 Solutions to the Base, ALU, Memory components to the exercises can be found [here](../teaching/bootstrap.tar.gz)
+
+4. [TP4](TP4/TP4.pdf) 
+C programs accomapanying questions -> [float_equality.c](TP4/src/float_equality.c)  [test.c](TP4/src/test.c) [float_skel.c](TP4/src/float_skel.c) 
