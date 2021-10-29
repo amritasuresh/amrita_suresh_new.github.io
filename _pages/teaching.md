@@ -26,4 +26,6 @@ Solutions to the Base, ALU, Memory components to the exercises can be found [her
 
 4. [TP4](TP4/TP4.pdf) 
 
+5. [TP5](TP5/TP5.pdf)
+
 C programs accompanying questions -> [float_equality.c](TP4/src/float_equality.c) &emsp;    [test.c](TP4/src/test.c)  &emsp;     [float_skel.c](TP4/src/float_skel.c) 
