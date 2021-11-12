@@ -11,26 +11,26 @@ author_profile: true
 
 Architecture
 
-1. [TP1](TP01/tp01_eng.pdf)
+I. [TP1](TP01/tp01_eng.pdf)
 This TP covers some topics on bit manipulation and logic gates.
 
 C programs accompanying questions -> [bits.c](TP01/bits.c)  &emsp;    [debruijn.c](TP01/debruijn.c)
 
 [Solutions for TP 1](TP01/tp01_solutions.pdf)
 
-2. [TP2](TP02/TP02.pdf)
+II. [TP2](TP02/TP02.pdf)
 
-3. [TP3](TP03/TP3.pdf)
+III. [TP3](TP03/TP3.pdf)
 
 Solutions to the Base, ALU, Memory components to the exercises can be found [here](../teaching/bootstrap.tar.gz)
 
-4. [TP4](TP4/TP4.pdf) 
+IV. [TP4](TP4/TP4.pdf) 
 
 C programs accompanying questions -> [float_equality.c](TP4/src/float_equality.c) &emsp;    [test.c](TP4/src/test.c)  &emsp;     [float_skel.c](TP4/src/float_skel.c)  Solution for float addition -> [float_solution_full.c](TP4/src/float_solution_full.c)
 
-5. [TP5](TP5/TP5.pdf)
+V. [TP5](TP5/TP5.pdf)
 
-6. [TP6](TP6/TP5.pdf)
+VI. [TP6](TP6/TP5.pdf)
 
 
 
