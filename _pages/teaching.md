@@ -26,9 +26,12 @@ Solutions to the Base, ALU, Memory components to the exercises can be found [her
 
 4. [TP4](TP4/TP4.pdf) 
 
+C programs accompanying questions -> [float_equality.c](TP4/src/float_equality.c) &emsp;    [test.c](TP4/src/test.c)  &emsp;     [float_skel.c](TP4/src/float_skel.c)  Solution for float addition -> [float_solution_full.c](TP4/src/float_solution_full.c)
+
 5. [TP5](TP5/TP5.pdf)
 
-C programs accompanying questions -> [float_equality.c](TP4/src/float_equality.c) &emsp;    [test.c](TP4/src/test.c)  &emsp;     [float_skel.c](TP4/src/float_skel.c)  Solution for float addition -> [float_solution_full.c](TP4/src/float_solution_full.c)
+6. [TP6](TP6/TP5.pdf)
+
 
 
 INFORMATION REGARDING PROJECT [here](https://amritasuresh.github.io/teaching/project)
