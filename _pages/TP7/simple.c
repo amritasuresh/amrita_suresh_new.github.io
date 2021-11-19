@@ -15,7 +15,7 @@ int main (int argc, char ** args)
 	{
 		int s;
 		// get the sum from the child process ... to be completed
-		printf("Le resultat de l'addition est %d\n",s);
+		printf("The result of the addition is %d\n",s);
 
 		exit(0); // exit
 	}
