@@ -32,7 +32,7 @@ V. [TP5](TP5/TP5.pdf)
 
 VI. [TP6](TP6/TP5.pdf)
 
-VII. [TP7](TP7/TP7.pdf) C programs accompanying questions [simple.c](TP7/simple.c) [calc zip](TP7/calc.zip) [pingpong1.c](TP7/pingpong1.c)
+VII. [TP7](TP7/TP7.pdf) C programs accompanying questions [simple.c](TP7/simple.c) [calc zip](TP7/calc.zip) 
 
 
 
