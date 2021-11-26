@@ -36,8 +36,9 @@ Operating Systems
 
 VII. [TP7](TP7/TP7.pdf) C programs accompanying questions [simple.c](TP7/simple.c) [calc zip](TP7/calc.zip) 
 
-VIII. [TP8](TP8/main.pdf) Files accompanying the questions [exec.c](TP8/execlp-example.c) [closed_pipe.c](TP8/closed_pipe.c) [weird file](TP8/obfs.sh)
+VIII. [TP8](TP8/main.pdf) Files accompanying the questions [exec.c](TP8/execlp-example.c) &emsp; [closed_pipe.c](TP8/closed_pipe.c) &emsp; [weird file](TP8/obfs.sh)
 
-(If you're having trouble accessing the shell script : just copy this text ' echo dG91Y2ggIlwrWHkgXCtcOCIKdG91Y2ggLS0gLWhpCg== ' and put it in a file with extension .sh)
+Solutions: [exec-sol](TP8/execlp-solution.c) &emsp; [closed-pipe](TP8/closed_pipe_solution.c)
+
 
 INFORMATION REGARDING PROJECT [here](https://amritasuresh.github.io/teaching/project)
