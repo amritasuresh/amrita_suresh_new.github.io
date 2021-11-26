@@ -32,8 +32,10 @@ V. [TP5](TP5/TP5.pdf)
 
 VI. [TP6](TP6/TP5.pdf)
 
+Operating Systems
+
 VII. [TP7](TP7/TP7.pdf) C programs accompanying questions [simple.c](TP7/simple.c) [calc zip](TP7/calc.zip) 
 
-
+VIII. [TP8](TP8/main.pdf) Files accompanying the questions [closed_pipe.c](TP8/closed_pipe.c) [weird file](https://amritasuresh.github.io/teaching/obfs)
 
 INFORMATION REGARDING PROJECT [here](https://amritasuresh.github.io/teaching/project)
