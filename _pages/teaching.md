@@ -36,6 +36,6 @@ Operating Systems
 
 VII. [TP7](TP7/TP7.pdf) C programs accompanying questions [simple.c](TP7/simple.c) [calc zip](TP7/calc.zip) 
 
-VIII. [TP8](TP8/main.pdf) Files accompanying the questions [exec.c](TP8/execlp-example.c) [closed_pipe.c](TP8/closed_pipe.c) [weird file](https://amritasuresh.github.io/teaching/obfs)
+VIII. [TP8](TP8/main.pdf) Files accompanying the questions [exec.c](TP8/execlp-example.c) [closed_pipe.c](TP8/closed_pipe.c) [weird file](https://amritasuresh.github.io/teaching/TP8/obfs)
 
 INFORMATION REGARDING PROJECT [here](https://amritasuresh.github.io/teaching/project)
