@@ -38,4 +38,6 @@ VII. [TP7](TP7/TP7.pdf) C programs accompanying questions [simple.c](TP7/simple.
 
 VIII. [TP8](TP8/main.pdf) Files accompanying the questions [exec.c](TP8/execlp-example.c) [closed_pipe.c](TP8/closed_pipe.c) [weird file](TP8/obfs.sh)
 
+(If you're having trouble accessing the shell script : just copy this text ' echo dG91Y2ggIlwrWHkgXCtcOCIKdG91Y2ggLS0gLWhpCg== ' and put it in a file with extension .sh)
+
 INFORMATION REGARDING PROJECT [here](https://amritasuresh.github.io/teaching/project)
