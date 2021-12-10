@@ -26,9 +26,9 @@ void* even(){
 
     for (int i =2; i<=100; i+=2){
 
-        sem_wait(&semodd);
+        sem_wait(&semeven);
         printf("even thread output = %d\n", i);
-        sem_post(&semeven);
+        sem_post(&semodd);
 
     }
     return NULL;
