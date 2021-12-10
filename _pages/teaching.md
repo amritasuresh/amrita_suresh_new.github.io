@@ -44,5 +44,7 @@ IX. [TP9](TP9/main.pdf) Programs accompanying questions  [procon.c](TP9/procon.c
 
 Solutions: [mailbox.c](TP9/mailbox.c) [oddeven.c](TP9/oddeven.c) 
 
+[Syntax for Mac users to create semaphores can be found in this program](TP9/mailbox-mac.c)
+
 
 INFORMATION REGARDING PROJECT [here](https://amritasuresh.github.io/teaching/project)
