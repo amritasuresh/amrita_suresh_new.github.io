@@ -1,7 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <pthread.h>
-#include <dispatch/dispatch.h>
 #include<semaphore.h>
 
 #define MAX 1000000
@@ -35,8 +34,6 @@ void* even(){
 }
 
 int main(int argc, char* argv[]) {
-    semodd = dispatch_semaphore_create(1);
-    semeven = dispatch_semaphore_create(0); //initialize semaphores
     pthread_t p1, p2;
     sem_init(&semodd, 0, 1);  
     sem_init(&semeven, 0, 0);//we initialize the even semaphore to 0 so that the odd one can go first
