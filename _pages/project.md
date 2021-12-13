@@ -8,6 +8,24 @@ redirect_from:
   - /project
 ---
 
+PROJECT 2
+
+Writing your own shell
+
+
+The zipped folder can be found [here](../teaching/shell-starter.tar.gz)
+
+
+The Project guidelines can also be found [here](../teaching/Shell_guidelines.pdf)
+
+
+Deadline: 3 January 2022
+
+----------------------
+
+
+PROJECT 1
+
 This page is dedicated to the Systems and Architecture project and queries you may have.
 
 
