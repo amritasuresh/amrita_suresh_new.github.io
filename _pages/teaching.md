@@ -48,7 +48,9 @@ Solutions: [mailbox.c](TP9/mailbox.c) [oddeven.c](TP9/oddeven.c)
 
 X. [TP10](TP10/main.pdf) Bootstrap file [here:](../teaching/ring.tar.gz)
 
-Completed file for the pipe case -> [ring-pipe.c](TP10/ring-pipe-en.c) (in french [here](TP10/ring-pipe.c))
+Completed file for the pipe case -> [ring-pipe.c](TP10/ring-pipe-en.c) (in french [here](TP10/ring-pipe.c)) 
+
+Completed file for the network case -> [ring-net.c](TP10/ring-net.c)
 
 
 INFORMATION REGARDING PROJECT [here](https://amritasuresh.github.io/teaching/project)
