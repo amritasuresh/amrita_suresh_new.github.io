@@ -46,5 +46,7 @@ Solutions: [mailbox.c](TP9/mailbox.c) [oddeven.c](TP9/oddeven.c)
 
 [Syntax for Mac users to create semaphores can be found in this program](TP9/mailbox-mac.c)
 
+X. [TP10](TP10/main.pdf) Bootstrap file [here:](../teaching/ring.tar.gz)
+
 
 INFORMATION REGARDING PROJECT [here](https://amritasuresh.github.io/teaching/project)
