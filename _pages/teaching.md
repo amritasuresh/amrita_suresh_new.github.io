@@ -51,6 +51,8 @@ X. [TP10](TP10/main.pdf) Bootstrap file [here:](../teaching/ring.tar.gz)
 Completed file for the pipe case -> [ring-pipe.c](TP10/ring-pipe-en.c) (in french [here](TP10/ring-pipe.c)) 
 
 XI. [TP11](TP11/main.pdf) Bootstrap file [here:](../teaching/ring.tar.gz)
+
 Completed file for the pipe case [here](TP10/ring-pipe.c)) 
+[smash.c](TP11/smash.c) [input.c](TP11/input.c) 
 
 INFORMATION REGARDING PROJECT [here](https://amritasuresh.github.io/teaching/project)
