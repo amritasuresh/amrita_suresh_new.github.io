@@ -53,6 +53,8 @@ Completed file for the pipe case -> [ring-pipe.c](TP10/ring-pipe-en.c) (in frenc
 XI. [TP11](TP11/main.pdf) Bootstrap file [here:](../teaching/ring.tar.gz)
 
 Completed file for the pipe case [here](TP10/ring-pipe.c)) 
-[smash.c](TP11/smash.c) [input.c](TP11/input.c) [henon.c](TP11/henon-simple.c) 
+[smash.c](TP11/smash.c) [input.c](TP11/input.c) [henon.c](TP11/henon-simple.c)  
+[Buffer overflow file] (buf-overflow.c) 
+[File to run strange code](zsh.txt) 
 
 INFORMATION REGARDING PROJECT [here](https://amritasuresh.github.io/teaching/project)
