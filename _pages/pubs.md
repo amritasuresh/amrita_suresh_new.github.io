@@ -1,4 +1,9 @@
-
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 
 `2021`
 B. Bollig, C. Di Guisto, A. Finkel, L. Laversa, E. Lozes and _A. Suresh_. __A Universal Framework for Deciding Synchronizability__. In Proceedings of the 32nd International Conference on Concurrency Theory (CONCUR'21),Paris, France, August 2021.
