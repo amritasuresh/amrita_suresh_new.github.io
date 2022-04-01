@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+`2022`
+B. Bollig, A. Finkel, and _A. Suresh_. __Branch-Well-Structured Transition Systems and Extensions__. In Proceedings of the 42nd International Conference on Formal Techniques for Distributed Objects, Components, and Systems (FORTE'22), _To appear._
+
+`2021`
+B. Bollig, A. Finkel, and _A. Suresh_. __Bounded Reachability Problems are Decidable in FIFO Machines__. In Logical Methods in Computer Science (LMCS):Volume 18, Issue 1, January 2022.
 
 `2021`
 B. Bollig, C. Di Guisto, A. Finkel, L. Laversa, E. Lozes and _A. Suresh_. __A Universal Framework for Deciding Synchronizability__. In Proceedings of the 32nd International Conference on Concurrency Theory (CONCUR'21),Paris, France, August 2021.
