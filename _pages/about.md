@@ -12,13 +12,6 @@ Hello! I am Amrita, a third year doctoral student at the [LMF](https://lmf.cnrs.
 
 Some of the topics I have worked on in the past have been input-bounded FIFO systems, the notions of synchronizability (using a Message Sequence Chart approach), and more recently, reversal boundedness and extensions of Well Structured Transition Systems. But apart from this, my interests lie with anything to do with verifying infinite state systems, and their characterization using logics and automata.
 
-My office is at **2S63**. You can contact me at (+33) 01 81 87 54 66 or via [email](mailto:asuresh@lsv.fr).
-
-*Postal address*:  
-**Amrita Suresh**  
-Office 2S63  
-LMF, ENS Paris-Saclay CS 30008  
-4 avenue des Sciences,  
-91190 Gif-sur-Yvette, France. 
+You can contact me by email at _asuresh_ AT _lsv_ DOT _fr_
 
 
