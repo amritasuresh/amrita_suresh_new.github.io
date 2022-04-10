@@ -12,6 +12,6 @@ Hello! I am Amrita, a third year doctoral student at the [LMF](https://lmf.cnrs.
 
 Some of the topics I have worked on in the past have been input-bounded FIFO systems, the notions of synchronizability (using a Message Sequence Chart approach), and more recently, reversal boundedness and extensions of Well Structured Transition Systems. But apart from this, my interests lie with anything to do with verifying infinite state systems, and their characterization using logics and automata.
 
-You can contact me by email at _asuresh_ AT _lsv_ DOT _fr_
+You can contact me by email at _asuresh_ AT _lsv_ DOT _fr_.
 
 
