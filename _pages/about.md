@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Amrita, a second year doctoral student at the [LMF](https://lmf.cnrs.fr/), [ENS Paris Saclay](https://ens-paris-saclay.fr/en). My advisors are [Alain Finkel](http://www.lsv.fr/~finkel/) and [Benedikt Bollig](https://www.benedikt-bollig.org/). I am broadly working in the field of verification of infinite state systems - more specifically on reachability analysis for underapproximations of asynchronous distributed systems with unbounded buffers. Reach out to know more! 
+Hello! I am Amrita, a third year doctoral student at the [LMF](https://lmf.cnrs.fr/), [ENS Paris Saclay](https://ens-paris-saclay.fr/en). My advisors are [Alain Finkel](http://www.lsv.fr/~finkel/) and [Benedikt Bollig](https://www.benedikt-bollig.org/). I am broadly working in the field of verification of distributed systems - more specifically on analysing underapproximations of asynchronous systems with unbounded buffers. 
+
+Some of the topics I have worked on in the past have been input-bounded FIFO systems, the notions of synchronizability of an asychronous system, and more recently, reversal boundedness and extensions of WSTS. But apart from this, my interests lie with anything to do with verifying infinite state systems, and their characterization using logics and automata.
 
 My office is at **2S63**. You can contact me at (+33) 01 81 87 54 66 or via [email](mailto:asuresh@lsv.fr).
 
 *Postal address*:  
 **Amrita Suresh**  
 Office 2S63  
-LSV, ENS Paris-Saclay CS 30008  
+LMF, ENS Paris-Saclay CS 30008  
 4 avenue des Sciences,  
 91190 Gif-sur-Yvette, France. 
 
