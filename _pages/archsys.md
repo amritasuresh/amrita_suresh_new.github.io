@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /teaching/
+title: "Architecture and Systems"
+permalink: /teaching/archsys
 author_profile: true
 ---
 
