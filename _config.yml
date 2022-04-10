@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "Home"
 title_separator          : "-"
 name                     : #&name "Amrita Suresh"
-description              : &description "PhD student, LMF"
+description              : #&description "PhD student"
 url                      : https://amritasuresh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amritasuresh/amritasuresh.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Amrita Suresh"
   avatar           : "amrita_lab.jpeg"
-  bio              : "PhD student, LMF"
-  location         : "ENS Paris Saclay"
+  bio              : #"PhD student, LMF"
+  location         : #"ENS Paris Saclay"
   employer         :
   pubmed           : 
   googlescholar    : 
