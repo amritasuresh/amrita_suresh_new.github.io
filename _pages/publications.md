@@ -11,10 +11,10 @@ B. Bollig, A. Finkel, and _A. Suresh_. __Branch-Well-Structured Transition Syste
 B. Bollig, A. Finkel, and _A. Suresh_. __Bounded Reachability Problems are Decidable in FIFO Machines__. In Logical Methods in Computer Science (LMCS):Volume 18, Issue 1, January 2022.
 
 `2021`
-B. Bollig, C. Di Guisto, A. Finkel, L. Laversa, E. Lozes and _A. Suresh_. __A Universal Framework for Deciding Synchronizability__. In Proceedings of the 32nd International Conference on Concurrency Theory (CONCUR'21),Paris, France, August 2021. ==Received Best Teaser Talk Award (QONFEST 2021).==
+B. Bollig, C. Di Guisto, A. Finkel, L. Laversa, E. Lozes and _A. Suresh_. __A Universal Framework for Deciding Synchronizability__. In Proceedings of the 32nd International Conference on Concurrency Theory (CONCUR'21),Paris, France, August 2021. `Received Best Teaser Talk Award (QONFEST 2021).`
 
 `2020`
-B. Bollig, A. Finkel, and _A. Suresh_. __Bounded Reachability Problems are Decidable in FIFO Machines__. In Proceedings of the 31st International Conference on Concurrency Theory (CONCUR'20), volume 171 of Leibniz International Proceedings in Informatics, Vienna, Austria, September 2020. ==Received Best Paper Award (CONCUR 2020).==
+B. Bollig, A. Finkel, and _A. Suresh_. __Bounded Reachability Problems are Decidable in FIFO Machines__. In Proceedings of the 31st International Conference on Concurrency Theory (CONCUR'20), volume 171 of Leibniz International Proceedings in Informatics, Vienna, Austria, September 2020. `Received Best Paper Award (CONCUR 2020).`
 
 `2019`
 _A. Suresh_. __Termination, Boundedness and Reachability for Input-bounded FIFO Machines__. Rapport de Master, Master Parisien de Recherche en Informatique, Paris, France, September 2019.
