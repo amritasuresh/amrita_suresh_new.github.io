@@ -17,7 +17,7 @@ Logical Methods in Computer Science (LMCS):Volume 18, Issue 1, January 2022.\
 __A Universal Framework for Deciding Synchronizability__.\
 B. Bollig, C. Di Guisto, A. Finkel, L. Laversa, E. Lozes and _A. Suresh_.\
 32nd International Conference on Concurrency Theory (CONCUR'21),Paris, France, August 2021. `Best Teaser Talk Award`\
-[<img src="../images/PDF_file_icon.svg" alt="PDF" style="height: 15px; width:20px;"/>](https://drops.dagstuhl.de/opus/volltexte/2021/14391/)  [<img src="../images/slide_icon.jpeg" alt="PPT" style="height: 15px; width:20px;"/>](../files/concur21_presentation.pdf) [<img src="../images/teaser_icon.png" alt="Teaser" style="height: 15px; width:20px;"/>](../files/concur21_teaser_short.pdf)
+[<img src="../images/PDF_file_icon.svg" alt="PDF" style="height: 15px; width:20px;"/>](https://drops.dagstuhl.de/opus/volltexte/2021/14391/)  [<img src="../images/slide_icon.jpeg" alt="PPT" style="height: 15px; width:20px;"/>](../files/concur21_presentation.pdf) [<img src="../images/teaser_icon.png" alt="Teaser" style="height: 15px; width:20px;"/>](../files/concur21_teaser_short.pdf) [<img src="../images/talk_icon.jpeg" alt="Talk" style="height: 25px; width:20px;"/>](https://youtu.be/HhfsX25NatY?t=154)
 
  __Bounded Reachability Problems are Decidable in FIFO Machines__.\
 B. Bollig, A. Finkel, and _A. Suresh_. 
