@@ -34,3 +34,16 @@ __Estimation of the Parameters of Solar Cells from Current-Voltage Characteristi
 S. Puthanveetil, M. Cho, _A. Suresh_.\
 International Journal on Soft Computing, Artificial Intelligence and Applications, February 2016.\
 [<img src="../images/PDF_file_icon.svg" alt="PDF" style="height: 15px; width:20px;"/>](https://aircconline.com/ijscai/V5N1/5116ijscai03.pdf)
+
+# Professional participation
+
+__Program Committee__ 15th Interaction and Concurrency Experience [(ICE'22)](https://www.discotec.org/2022/ice)
+
+__Technical Chair__ 32nd International Conference on Concurrency Theory [(QONFEST'22)](https://qonfest2021.lacl.fr/index.php)
+
+__Participant__ [VTSA'21](https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa21/), [Journées du GT Vérif '21](https://www.benedikt-bollig.org//gt-verif-2021), [MOVEP'20](https://www-verimag.imag.fr/MOVEP-2020.html), [ForMaL'19](https://formal-paris-saclay.fr/)
+
+
+
+
+
