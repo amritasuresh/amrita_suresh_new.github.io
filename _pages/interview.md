@@ -9,7 +9,7 @@ redirect_from:
 
 The informal interview will be on **Wednesday, 21 September 2022, 11h CET**. 
 
-My research proposal can be found [here](interview/Amrita_research_proposal.pdf).
+My research proposal can be found [here](interview/Amrita_research_statement.pdf).
 The slides for my presentation can be found [here](interview/Amrita_research_presentation.pdf).
 
 The Concur 2020 paper on Bounded Reachability can be found here: [conference version](midterm/concur-conf-version.pdf) [long version](midterm/concur-long-version-2020.pdf)<br>
