@@ -16,7 +16,7 @@ Code : 03EY2f
 
 
 
-The report for the defense can be found [here](defense/Amrita_report.pdf).
+The report for the defense can be found [here](defense/amrita_thesis.pdf).
 
 For any further details, please do not hesitate to send me an email.
 
