@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Amrita Suresh"
   avatar           : "amrita_lab.jpeg"
-  bio              : " " #"PhD student, LMF"
-  location         : "Paris"
+  bio              : " " #"Research Associate"
+  location         : "Oxford"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : # "asuresh@lsv.fr"
+  email            : # "amrita.suresh@cs.ox.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
